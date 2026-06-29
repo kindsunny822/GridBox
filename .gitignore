@@ -1,0 +1,6 @@
+node_modules/
+output/
+.npm-cache/
+config.json
+.DS_Store
+*.log

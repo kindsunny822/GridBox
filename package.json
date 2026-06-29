@@ -1,0 +1,16 @@
+{
+  "name": "gridbox-dingtalk-ecommerce-image-field",
+  "version": "0.1.0",
+  "private": true,
+  "description": "GridBox 电商AI生图 DingTalk AI Table FaaS field",
+  "scripts": {
+    "start": "dingtalk-docs-cool-app start:field",
+    "pack": "dingtalk-docs-cool-app pack:field",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dingtalk-docs-cool-app": "^0.3.16",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {}
+}
